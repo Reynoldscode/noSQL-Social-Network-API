@@ -8,7 +8,7 @@ const thoughtSchema = new Schema(
             type: String,
             required: true,
             minlength: 1,
-            maxlenght: 280, // Typo: should be "maxlength" instead of "maxlenght"
+            maxlenght: 280, 
         },
         createdAt:{
             type: Date,
