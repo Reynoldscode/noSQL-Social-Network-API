@@ -23,6 +23,6 @@ screenshot: ![alt text](<public/access/Screenshot (2053).png>)
             ![alt text](<public/access/Screenshot (2054).png>)
 
 
-Screenrecording: <video controls src="public/access/social network.mp4" title="Title"></video>
+Screenrecording: <video controls src="public/access/social.mp4" title="Title"></video>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
